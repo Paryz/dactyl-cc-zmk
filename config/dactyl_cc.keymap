@@ -70,7 +70,7 @@
     &trans    &out OUT_USB &out OUT_BLE   &none        &reset       &none                     &none       &reset    &none     &none           &none    &none
     &trans    &none        &none          &none        &none        &none                     &none       &to 0     &to 1     &none           &none    &none
     &none     &none        &bt BT_CLR     &none        &none        &bootloader               &bootloader &none     &none     &none           &none    &none
-              &kp LCTRL    &lt RAISE BSLH &kp LEFT     &kp RIGHT    &kp SPACE                 &kp RET     &kp DOWN  &kp UP    &lt LOWER LBKT  &kp RBKT
+              &kp LCTRL    &trans         &kp LEFT     &kp RIGHT    &kp SPACE                 &kp RET     &kp DOWN  &kp UP    &trans          &kp RBKT
               &kp GRAVE    &kp TAB        &kp HOME     &kp UNDER    &kp LGUI                  &kp TAB     &kp RALT  &kp RALT  &kp RALT        &kp ESC
             >;
         };
