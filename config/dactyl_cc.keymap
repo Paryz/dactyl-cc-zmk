@@ -48,7 +48,7 @@
     &sl ADJUST &kp HASH  &kp LPAR       &kp RPAR  &none     &tog MAC                           &none      &kp LC(1)  &kp LC(PG_UP)    &kp LC(PG_DN)     &kp LC(9)   &none
     &trans     &kp PRCNT &kp LBRC       &kp RBRC  &kp PIPE  &none                              &kp LEFT   &kp DOWN   &kp UP           &kp RIGHT         &none       &none
     &none      &kp AT    &kp LBKT       &kp RBKT  &kp GT    &none                              &kp MEH(N) &kp MEH(M) &kp LG(LC(LEFT)) &kp LG(LC(RIGHT)) &kp LG(TAB) &none
-               &kp LCTRL &lt RAISE BSLH &kp LEFT  &kp RIGHT &kp SPACE                          &kp RET    &kp DOWN   &kp UP           &lt LOWER LBKT    &kp RBKT
+               &kp LCTRL &mo ADJUST     &kp LEFT  &kp RIGHT &kp SPACE                          &kp RET    &kp DOWN   &kp UP           &trans            &kp RBKT
                &kp GRAVE &kp TAB        &kp HOME  &kp UNDER &kp LGUI                           &kp TAB    &kp RALT   &kp RALT         &kp RALT          &kp ESC
             >;
         };
@@ -59,7 +59,7 @@
     &kp TAB   &kp T     &kp Q          &kp W     &kp E     &kp R                              &trans      &kp KP_N7 &kp KP_N8 &kp KP_N9       &kp KP_MINUS &trans
     &kp G     &kp LSHFT &kp A          &kp S     &kp D     &kp F                              &trans      &kp KP_N4 &kp KP_N5 &kp KP_N6       &kp KP_PLUS  &trans
     &kp M     &trans    &trans         &trans    &trans    &trans                             &kp KP_NLCK &kp KP_N1 &kp KP_N2 &kp KP_N3       &kp KP_SLASH &trans
-              &kp LCTRL &lt RAISE BSLH &kp LEFT  &kp RIGHT &kp SPACE                          &kp RET     &kp DOWN  &kp UP    &lt LOWER LBKT  &kp RBKT
+              &kp LCTRL &trans         &kp LEFT  &kp RIGHT &kp SPACE                          &kp RET     &kp DOWN  &kp UP    &mo ADJUST      &kp RBKT
               &kp GRAVE &kp TAB        &kp HOME  &kp UNDER &kp LGUI                           &kp TAB     &kp RALT  &kp RALT  &kp RALT        &kp ESC
             >;
         };
