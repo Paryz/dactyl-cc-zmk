@@ -79,7 +79,7 @@
             label = "LWR";
             bindings = <
     &kp F12  &kp F1    &kp F2     &kp F3    &kp F4    &kp F5                             &kp F6     &kp F7     &kp F8           &kp F9            &kp F10     &kp F11
-    &trans   &kp HASH  &kp LPAR   &kp RPAR  &none     &tog MAC                           &none      &kp LC(1)  &kp LC(PG_UP)    &kp LC(PG_DN)     &kp LC(9)   &none
+    &trans   &kp HASH  &kp LPAR   &kp RPAR  &none     &none                              &none      &kp LC(1)  &kp LC(PG_UP)    &kp LC(PG_DN)     &kp LC(9)   &none
     &trans   &kp PRCNT &kp LBRC   &kp RBRC  &kp PIPE  &none                              &kp LEFT   &kp DOWN   &kp UP           &kp RIGHT         &none       &none
     &none    &kp AT    &kp LBKT   &kp RBKT  &kp GT    &none                              &kp MEH(N) &kp MEH(M) &kp LG(LC(LEFT)) &kp LG(LC(RIGHT)) &kp LG(TAB) &none
              &kp LCTRL &mo ADJ    &kp LEFT  &kp RIGHT &kp SPACE                          &kp RET    &kp DOWN   &kp UP           &trans            &kp RBKT
